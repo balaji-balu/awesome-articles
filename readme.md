@@ -4,3 +4,6 @@
 ](https://david-delassus.medium.com/elixir-and-kubernetes-a-love-story-721cc6a5c7d5), Medium
 
 [Elixir School, Concurrency](https://elixirschool.com/en/lessons/intermediate/concurrency)
+
+## Devops
+[Cloud Native DevOps Explained, IBM Technology](https://www.youtube.com/watch?v=FzERTm_j2wE), Youtube video: Enjoined the simple way of explaining devops deployment pipeline - handling developer lifecycle to deployment  
