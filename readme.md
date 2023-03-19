@@ -1,6 +1,6 @@
 ## I am reading these right now...
 
-Building Microservices, 2nd Edition, Sam NewMan
+Building Microservices, 2nd Edition, Sam Newman
 
 [Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
 
