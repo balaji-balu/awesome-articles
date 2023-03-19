@@ -11,7 +11,7 @@ Building Microservices, 2nd Edition, Sam NewMan
 [Tradeoff Analysis - Service Granularity](https://www.developertoarchitect.com/lessons/lesson145.html), Mark Richards, Youtube
 
 
-## I want to read this also...
+## I want to read this...
 
 Architecture Decision Records
 
@@ -20,8 +20,6 @@ Architecture Decision Records
 [Pattern Oriented Software Architecture for Concurrency and Networking, Douglas Schimdt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc)
 
 [Scalable C](https://hintjens.gitbooks.io/scalable-c/content/index.html)
-
-## Articles I love to read ..
 
 [Elixir School, Concurrency](https://elixirschool.com/en/lessons/intermediate/concurrency)
 
