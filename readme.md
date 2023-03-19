@@ -1,6 +1,8 @@
 ## I am reading these right now...
 
-Building Microservices, 2nd Edition, Sam Newman
+[Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+
+[Building Evolutionary Architectures](https://evolutionaryarchitecture.com/)
 
 [Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
 
