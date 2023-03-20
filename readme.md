@@ -8,6 +8,8 @@ Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software A
 
 [Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
 
+Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent and networking software](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc), Youtube playlist
+
 ## I want to read this...
 
 Architecture Decision Records
