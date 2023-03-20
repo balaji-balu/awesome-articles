@@ -4,7 +4,7 @@
 
 [Building Evolutionary Architectures](https://evolutionaryarchitecture.com/)
 
-Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264), 
+Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
 
 [Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
 
