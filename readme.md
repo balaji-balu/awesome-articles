@@ -4,14 +4,9 @@
 
 [Building Evolutionary Architectures](https://evolutionaryarchitecture.com/)
 
+Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264), 
+
 [Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
-
-[Tradeoff Analysis using ATAM, CTAM adapted to Agile](), Mark Richards, Youtube
-
-[Measuring scalability using Fitness functions](https://www.developertoarchitect.com/lessons/lesson71.html), Mark Richards, Youtube 
-
-[Tradeoff Analysis - Service Granularity](https://www.developertoarchitect.com/lessons/lesson145.html), Mark Richards, Youtube
-
 
 ## I want to read this...
 
@@ -19,7 +14,7 @@ Architecture Decision Records
 
 [Scalable Microservices, Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5dm-JKpo8kPuS_0d2kYjHz), Youtube playlist
 
-[Pattern Oriented Software Architecture for Concurrency and Networking, Douglas Schimdt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc)
+ZeroMQ on [Architecture of Open Source Apllications(AOSA)](https://www.aosabook.org/en/zeromq.html)
 
 [Scalable C](https://hintjens.gitbooks.io/scalable-c/content/index.html)
 
@@ -34,3 +29,9 @@ Architecture Decision Records
 [Cloud Native DevOps Explained, IBM Technology](https://www.youtube.com/watch?v=FzERTm_j2wE), Youtube video: Enjoined the simple way of explaining devops deployment pipeline - handling developer lifecycle to deployment  
 
 [Managing Data Consistency in a microservices architecture using Sagas, Chris Richardson](https://www.slideshare.net/chris.e.richardson/microcph-managing-data-consistency-in-a-microservice-architecture-using-sagas)
+
+[Tradeoff Analysis using ATAM, CTAM adapted to Agile](), Mark Richards, Youtube
+
+[Measuring scalability using Fitness functions](https://www.developertoarchitect.com/lessons/lesson71.html), Mark Richards, Youtube 
+
+[Tradeoff Analysis - Service Granularity](https://www.developertoarchitect.com/lessons/lesson145.html), Mark Richards, Youtube
