@@ -2,7 +2,7 @@
 
 [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
-[Building Evolutionary Architectures](https://evolutionaryarchitecture.com/)
+[Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
 
 Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
 
