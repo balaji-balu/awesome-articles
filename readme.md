@@ -12,6 +12,8 @@ Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent 
 
 ## I want to read this...
 
+[Priniples of Reactive Programming using Akka Actors](https://www.reactivedesignpatterns.com/videos.html), Videos from [reactivedesignpatterns.com](https://www.reactivedesignpatterns.com)
+
 Architecture Decision Records
 
 [Scalable Microservices, Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5dm-JKpo8kPuS_0d2kYjHz), Youtube playlist
