@@ -12,7 +12,7 @@ Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent 
 
 ## I want to read this...
 
-[Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar, 2022, clickhouse team
+[Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
 [Priniples of Reactive Programming using Akka Actors](https://www.reactivedesignpatterns.com/videos.html), Videos from [reactivedesignpatterns.com](https://www.reactivedesignpatterns.com)
 
