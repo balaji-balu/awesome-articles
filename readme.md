@@ -1,3 +1,9 @@
+[23 mar 2022]
+
+[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+
+[workerd](https://github.com/cloudflare/workerd) is a JavaScript / Wasm server runtime based on the same code that powers [Cloudflare Workers]().
+
 ## I am reading these right now...
 
 [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
