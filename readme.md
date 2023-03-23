@@ -1,16 +1,18 @@
 [23 mar 2022]
 
-**R** [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+:orange_book:[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
 [workerd](https://github.com/cloudflare/workerd) is a JavaScript / Wasm server runtime based on the same code that powers [Cloudflare Workers]().
 
+SaaS patterns: [Single-tenant](https://samnewman.io/patterns/deployment/single-tenancy/), Single-tenant, [hybrid-tenant](https://samnewman.io/patterns/deployment/hybrid-tenancy/), Sam Newman
+
 [22 mar 2022]
 
-**R** [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
+:orange_book: [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
-**R** [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+:orange_book: [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
-**R** [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
+:orange_book: [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
 
 Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
 
