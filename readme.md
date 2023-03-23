@@ -1,14 +1,16 @@
 [23 mar 2022]
 
-[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+**R** [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
 [workerd](https://github.com/cloudflare/workerd) is a JavaScript / Wasm server runtime based on the same code that powers [Cloudflare Workers]().
 
-## I am reading these right now...
+[22 mar 2022]
 
-[Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+**R** [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
-[Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
+**R** [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+
+**R** [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
 
 Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
 
@@ -18,7 +20,7 @@ Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent 
 
 ## I want to read this...
 
-[Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
+
 
 [Priniples of Reactive Programming using Akka Actors](https://www.reactivedesignpatterns.com/videos.html), Videos from [reactivedesignpatterns.com](https://www.reactivedesignpatterns.com)
 
