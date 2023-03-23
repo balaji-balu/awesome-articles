@@ -1,28 +1,24 @@
 [23 mar 2022]
 
-:orange_book:[Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+🍊 [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
 [workerd](https://github.com/cloudflare/workerd) is a JavaScript / Wasm server runtime based on the same code that powers [Cloudflare Workers]().
 
-SaaS patterns: [Single-tenant](https://samnewman.io/patterns/deployment/single-tenancy/), Single-tenant, [hybrid-tenant](https://samnewman.io/patterns/deployment/hybrid-tenancy/), Sam Newman
+SaaS patterns: [Single-tenant](https://samnewman.io/patterns/deployment/single-tenancy/), [Multi-tenant](https://samnewman.io/patterns/deployment/multi-tenancy/), [hybrid-tenant](https://samnewman.io/patterns/deployment/hybrid-tenancy/), Sam Newman
 
 [22 mar 2022]
 
-:orange_book: [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
+:orange [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
-:orange_book: [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
+🔶 [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
-:orange_book: [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
+🥬 [Building Evolutionary Architecture](https://evolutionaryarchitecture.com/)
 
 Software Architecture and Cost Tradeoff and Analysis ATAM, CTAM from [Software Architecture in Practice, 3rd Edition](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
 
-[Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
-
-Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent and networking software](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc), Youtube playlist
+🥬 Douglas Schmidt talks on [Pattern Oriented Software Architecture for concurrent and networking software](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp6CHE-QQ040tlDILNcBqJnc), Youtube playlist
 
 ## I want to read this...
-
-
 
 [Priniples of Reactive Programming using Akka Actors](https://www.reactivedesignpatterns.com/videos.html), Videos from [reactivedesignpatterns.com](https://www.reactivedesignpatterns.com)
 
@@ -38,6 +34,7 @@ ZeroMQ on [Architecture of Open Source Apllications(AOSA)](https://www.aosabook.
 
 
 ## Articles I liked ... 
+[Basics - ZeroMQ Guide](https://zguide.zeromq.org/docs/chapter1/)
 
 [Elixir and Kubernetes: A love story — Part 1: Setting up an Elixir Cluster
 ](https://david-delassus.medium.com/elixir-and-kubernetes-a-love-story-721cc6a5c7d5), Medium
