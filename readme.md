@@ -1,3 +1,7 @@
+[25 mar 2022]
+
+🍊 [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
+
 [23 mar 2022]
 
 🍊 [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
