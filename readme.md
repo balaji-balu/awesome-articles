@@ -12,7 +12,7 @@ SaaS patterns: [Single-tenant](https://samnewman.io/patterns/deployment/single-t
 
 [22 mar 2022]
 
-:orange [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
+😋 [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
 🔶 [Building Microservices, 2nd Edition, Sam Newman](https://samnewman.io/books/building_microservices_2nd_edition/)
 
