@@ -1,3 +1,15 @@
+[26 mar 2022]
+
+**Learning Elixir**
+
+- [Concurrency and Actor Model](https://github.com/WhiteRookPL/learn-elixir-the-hard-way/blob/master/docs/concurrency-and-actor-model.md)
+- [Real time communication at scale with Elixir at Discord](https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/)
+
+Introspection tools
+
+- Discord's [Zen Monitor](https://github.com/discord/zen_monitor): Efficient Process.monitor replacement
+- Discord's [Manifold](https://github.com/discord/manifold) : Fast batch message passing between nodes for Erlang/Elixir.
+
 [25 mar 2022]
 
 🍊 [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
