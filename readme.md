@@ -4,7 +4,8 @@
 []()
 
 **Microfrontends**
-- vercel solutions: [microfrontends](https://github.com/vercel/examples/tree/main/solutions/microfrontends) : Turborepo, Design system with Tailwindcss, css modules
+- vercel solutions: [microfrontends](https://github.com/vercel/examples/tree/main/solutions/microfrontends) : next.js zones, Turborepo, Design system with Tailwindcss, css modules, pages
+- [changesets](https://github.com/changesets/changesets): Changesets hold two key bits of information: a version type (following semver), and change information to be added to a changelog.
 - Webpack [Module Federation](https://webpack.js.org/concepts/module-federation/) : Module federation is a strategy for building applications in a large organization with many teams that want to prioritize shipping velocity. We encourage you to research module federation as an option for helping teams build as a part of a large organization where teams may not have the opportunity to communicate and work together.
 
 [26 mar 2022]
