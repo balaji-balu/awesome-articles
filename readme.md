@@ -1,6 +1,6 @@
 [27 mar 2022]
 
-**Architecture: Robustness Tactic"
+**Architecture: Robustness Tactic**
 []()
 
 **Microfrontends**
