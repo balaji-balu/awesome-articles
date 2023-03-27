@@ -1,7 +1,7 @@
 [27 mar 2022]
 
 **Architecture: Robustness Tactic**
-[]()
+Rick Kazman [Tactics for software robustness](https://insights.sei.cmu.edu/blog/tactics-and-patterns-for-software-robustness/), SEI blog
 
 **Microfrontends**
 - vercel solutions: [microfrontends](https://github.com/vercel/examples/tree/main/solutions/microfrontends) : next.js zones, Turborepo, Design system with Tailwindcss, css modules, pages
