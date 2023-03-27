@@ -1,3 +1,8 @@
+[27 mar 2022]
+
+**Microfrontends**
+- vercel solutions: [microfrontends](https://github.com/vercel/examples/tree/main/solutions/microfrontends) 
+
 [26 mar 2022]
 
 **Learning Elixir**
