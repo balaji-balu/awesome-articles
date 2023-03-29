@@ -5,6 +5,20 @@
 
 **Tasks**: Tasks build on top of the spawn functions to provide better error reports and introspection 
 
+**Supervisor**:
+
+GenServer:
+
+GenStage: 
+
+Agent:
+
+Flow (Module)
+
 ### Eco-system:
 
+[Broadway](https://hexdocs.pm/broadway/introduction.html): is a library for building concurrent and multi-stage data ingestion and data processing pipelines with Elixir. Broadway pipelines are concurrent and robust, thanks to the Erlang VM and its actors. 
+
 **[Cowboy](https://github.com/ninenines/cowboy)**: Small, fast, modern HTTP server for Erlang/OTP. Phoenix uses these underneath for web server functions.
+
+Peerage: connecting the nodes
