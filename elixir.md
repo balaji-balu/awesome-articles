@@ -22,3 +22,5 @@ Flow (Module)
 **[Cowboy](https://github.com/ninenines/cowboy)**: Small, fast, modern HTTP server for Erlang/OTP. Phoenix uses these underneath for web server functions.
 
 Peerage: connecting the nodes
+
+livebook: jupyter like notebooks written in elixir
