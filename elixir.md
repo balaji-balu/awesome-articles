@@ -28,5 +28,7 @@ Peerage: connecting the nodes
 
 livebook: jupyter like notebooks written in elixir
 
+[Partisan](https://github.com/lasp-lang/partisan): 
+
 ### Read
 Book: [Erlang in Anger](https://www.erlang-in-anger.com/) Free
