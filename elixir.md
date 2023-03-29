@@ -5,22 +5,28 @@
 
 **Tasks**: Tasks build on top of the spawn functions to provide better error reports and introspection 
 
-**Supervisor**:
+**[Supervisor](https://hexdocs.pm/elixir/Supervisor.html)**:
+- [Supervisor principles](https://erlang.org/documentation/doc-4.9.1/doc/design_principles/sup_princ.html) Erlang documentation
 
-GenServer:
+[GenServer](https://hexdocs.pm/elixir/GenServer.html): A behaviour module for implementing the server of a client-server relation. 
+[elixir-lang on GenServer](https://elixir-lang.org/getting-started/mix-otp/genserver.html)
 
 GenStage: 
 
 Agent:
 
-Flow (Module)
+Flow
+(Module)
 
 ### Eco-system:
 
-[Broadway](https://hexdocs.pm/broadway/introduction.html): is a library for building concurrent and multi-stage data ingestion and data processing pipelines with Elixir. Broadway pipelines are concurrent and robust, thanks to the Erlang VM and its actors. 
+[Broadway](https://hexdocs.pm/broadway/introduction.html): is a library for building concurrent and multi-stage data ingestion and data processing pipelines with Elixir. Broadway pipelines are concurrent and robust, thanks to the Erlang VM and its actors. Built on top of GenStage.
 
 **[Cowboy](https://github.com/ninenines/cowboy)**: Small, fast, modern HTTP server for Erlang/OTP. Phoenix uses these underneath for web server functions.
 
 Peerage: connecting the nodes
 
 livebook: jupyter like notebooks written in elixir
+
+### Read
+Book: [Erlang in Anger](https://www.erlang-in-anger.com/) Free
