@@ -1,6 +1,6 @@
 ### [31 mar 2022]
 
-[Elixir: A guide to event handling](https://mkaszubowski.com/2021/01/09/elixir-event-handling.html)
+[Elixir: A guide to event handling](https://mkaszubowski.com/2021/01/09/elixir-event-handling.html), mkaszubowski.com blog: I enjoy all his articles
 
 [Azure on Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/) : Breden burns videos are excellent way to learn k8s
 
