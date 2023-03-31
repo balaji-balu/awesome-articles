@@ -2,6 +2,10 @@
 
 [Azure on Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/) : Breden burns videos are excellent way to learn k8s
 
+[How to use LISTEN and NOTIFY PostgreSQL commands in Elixir?](https://blog.lelonek.me/listen-and-notify-postgresql-commands-in-elixir-187c49597851) : 
+How can you benefit from LISTEN and NOTIFY postgres database features in Elixir applications?
+
+
 ### [27 mar 2022]
 
 **Architecture: Robustness Tactic**
