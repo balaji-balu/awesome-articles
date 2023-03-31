@@ -1,3 +1,7 @@
+### [31 mar 2022]
+
+[Azure on Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/) : Breden burns videos are excellent way to learn k8s
+
 ### [27 mar 2022]
 
 **Architecture: Robustness Tactic**
