@@ -20,6 +20,8 @@ Flow
 
 ### Eco-system:
 
+[PoolBoy](https://elixirschool.com/en/lessons/misc/poolboy) : You can easily exhaust your system resources if you do not limit the maximum number of concurrent processes that your program can spawn. Poolboy is a widely used lightweight, generic pooling library for Erlang that addresses this issue.
+
 [Broadway](https://hexdocs.pm/broadway/introduction.html): is a library for building concurrent and multi-stage data ingestion and data processing pipelines with Elixir. Broadway pipelines are concurrent and robust, thanks to the Erlang VM and its actors. Built on top of GenStage.
 
 **[Cowboy](https://github.com/ninenines/cowboy)**: Small, fast, modern HTTP server for Erlang/OTP. Phoenix uses these underneath for web server functions.
