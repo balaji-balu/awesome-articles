@@ -21,6 +21,7 @@ Flow
 Registry: A local, decentralized and scalable key-value process storage.
 
 ### Eco-system:
+[libcluster](https://github.com/bitwalker/libcluster) : Automatic cluster formation/healing for Elixir applications
 
 [PoolBoy](https://elixirschool.com/en/lessons/misc/poolboy) : You can easily exhaust your system resources if you do not limit the maximum number of concurrent processes that your program can spawn. Poolboy is a widely used lightweight, generic pooling library for Erlang that addresses this issue.
 
