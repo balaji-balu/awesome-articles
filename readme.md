@@ -1,5 +1,7 @@
 ### [31 mar 2022]
 
+[Elixir: A guide to event handling](https://mkaszubowski.com/2021/01/09/elixir-event-handling.html)
+
 [Azure on Kubernetes](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-kubernetes/) : Breden burns videos are excellent way to learn k8s
 
 [How to use LISTEN and NOTIFY PostgreSQL commands in Elixir?](https://blog.lelonek.me/listen-and-notify-postgresql-commands-in-elixir-187c49597851) : 
