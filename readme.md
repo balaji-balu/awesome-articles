@@ -1,4 +1,8 @@
-### [31 mar 2022]
+### [1 Apr 2023]
+
+[Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/) : 
+Hachyderm has reached 30,000 users. A ‘small sized’ service in regard to scale. However, in the process we have hit very familiar ‘medium sized’ scale problems which caused us to migrate our services out of my basement. This is the outage report, post mortem, and high level overview of the process of migrating to Hetzner in Germany. From observation to production fixes. This is the story.
+### [31 mar 2023]
 
 [Architecure qualities](https://github.com/mtnygard/architecture-qualities) Michael Nygard, mtnygard
 
@@ -14,7 +18,7 @@
 How can you benefit from LISTEN and NOTIFY postgres database features in Elixir applications?
 
 
-### [27 mar 2022]
+### [27 mar 2023]
 
 **Architecture: Robustness Tactic**
 - Rick Kazman [Tactics for software robustness](https://insights.sei.cmu.edu/blog/tactics-and-patterns-for-software-robustness/), SEI blog
@@ -24,7 +28,7 @@ How can you benefit from LISTEN and NOTIFY postgres database features in Elixir 
 - [changesets](https://github.com/changesets/changesets): Changesets to manage versions, create changelogs, and publish to npm. It hold two key bits of information: a version type (following semver), and change information to be added to a changelog. 
 - Webpack [Module Federation](https://webpack.js.org/concepts/module-federation/) : Module federation is a strategy for building applications in a large organization with many teams that want to prioritize shipping velocity. We encourage you to research module federation as an option for helping teams build as a part of a large organization where teams may not have the opportunity to communicate and work together.
 
-### [26 mar 2022]
+### [26 mar 2023]
 
 **Learning Elixir**
 - [Learn Elixir the hard way](https://github.com/WhiteRookPL/learn-elixir-the-hard-way) : intro to elixir, functional programming, concurrency and actor model, testing and performance evaluation
@@ -36,11 +40,11 @@ Introspection tools
 - Discord's [Zen Monitor](https://github.com/discord/zen_monitor): Efficient Process.monitor replacement
 - Discord's [Manifold](https://github.com/discord/manifold) : Fast batch message passing between nodes for Erlang/Elixir.
 
-### [25 mar 2022]
+### [25 mar 2023]
 
 🍊 [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
 
-### [23 mar 2022]
+### [23 mar 2023]
 
 🍊 [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -48,7 +52,7 @@ Introspection tools
 
 SaaS patterns: [Single-tenant](https://samnewman.io/patterns/deployment/single-tenancy/), [Multi-tenant](https://samnewman.io/patterns/deployment/multi-tenancy/), [hybrid-tenant](https://samnewman.io/patterns/deployment/hybrid-tenancy/), Sam Newman
 
-### [22 mar 2022]
+### [22 mar 2023]
 
 😋 [Building ClickHouse Cloud From Scratch in a Year](https://clickhouse.com/blog/building-clickhouse-cloud-from-scratch-in-a-year), mar 2023, clickhouse team
 
