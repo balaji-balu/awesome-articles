@@ -1,5 +1,7 @@
 ### [1 Apr 2023]
 
+[Scaling Mastodon](https://docs.joinmastodon.org/admin/scaling/): Scaling Mastodon servers
+
 [Leaving the Basement](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/) : 
 Hachyderm has reached 30,000 users. A ‘small sized’ service in regard to scale. However, in the process we have hit very familiar ‘medium sized’ scale problems which caused us to migrate our services out of my basement. This is the outage report, post mortem, and high level overview of the process of migrating to Hetzner in Germany. From observation to production fixes. This is the story.
 ### [31 mar 2023]
