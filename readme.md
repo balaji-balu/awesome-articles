@@ -1,3 +1,6 @@
+### [2 Apr 2023]
+[Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021](https://www.youtube.com/watch?v=mkGq1WoEvI4)
+
 ### [1 Apr 2023]
 
 [Scaling Mastodon](https://docs.joinmastodon.org/admin/scaling/): Scaling Mastodon servers
