@@ -1,4 +1,5 @@
 Concerns:
+- Event programming model
 - monolithic lambda (use microservices and SAM for deploying as a single unit)
 - reducing the time of execution
 - resources: cpu, memory
