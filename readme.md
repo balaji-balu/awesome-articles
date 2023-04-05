@@ -1,3 +1,14 @@
+### [5 Apr 2023]
+
+**Microsoft rearchitect the client app**
+
+[source](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-advantages-of-the-new-architecture/ba-p/3775704?ck_subscriber_id=2077780040)
+
++ Fluent UI
++ Reactjs from angular
++ webview2 from Electron framework
++ Data access layer on separated worker thread + IndexDB + GraphQL Schema
+
 ### [2 Apr 2023]
 [Idioms for Building Fault-tolerant Applications with Elixir • José Valim • YOW! 2021](https://www.youtube.com/watch?v=mkGq1WoEvI4)
 
