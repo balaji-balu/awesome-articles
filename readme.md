@@ -1,4 +1,7 @@
 ### [6 Apr 2023]
+[Martin Fowler on adding slacks in planning](https://martinfowler.com/bliki/Slack.html)
+
+[Slack: Art of Agile Development, 2nd edition](https://www.jamesshore.com/v2/books/aoad2/slack), James Shore
 
 [Anti-patterns of event driven architecture](https://www.linkedin.com/pulse/anti-patterns-event-driven-architecture-arpit-jain/), Arpit Jain
 
