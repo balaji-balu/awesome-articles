@@ -1,3 +1,9 @@
+### [6 Apr 2023]
+
+[Anti-patterns of event driven architecture](https://www.linkedin.com/pulse/anti-patterns-event-driven-architecture-arpit-jain/), Arpit Jain
+
+[Event-driven architecture style](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven), Microsoft Azure
+
 ### [5 Apr 2023]
 
 **Microsoft rearchitect the client app**
