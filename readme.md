@@ -4,6 +4,9 @@ k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-c
 
 [Atlas](https://atlasgo.io/), open-source schema migration tool : Running Schema migrations
 
+Working in Small Batches
+- architecture, code, database: all together deployed as single unit 
+
 ### [6 Apr 2023]
 
 [Martin Fowler on adding slacks in planning](https://martinfowler.com/bliki/Slack.html)
