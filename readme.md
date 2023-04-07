@@ -16,7 +16,7 @@ Working in Small Batches
 - architecture, code, database: all together deployed as single unit 
 - encourages experimentation
 - ci, cd pipelines support small batches approach
-- refactoring databases in small batches
+- refactoring databases in small batches: small and simple change
 - easy to undo changes 
 - supports evolutionary architecture thinking
 - Select small stories, implement, deploy, test fast
