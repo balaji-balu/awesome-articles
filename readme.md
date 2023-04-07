@@ -6,7 +6,9 @@ k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-c
 
 Working in Small Batches
 - part of [Devops Process capabilities](https://cloud.google.com/architecture/devops/devops-process-working-in-small-batches)
+- big win is [faster feedback](https://queue.acm.org/detail.cfm?id=2945077)
 - architecture, code, database: all together deployed as single unit 
+- encourages experimentation
 - ci, cd pipelines support small batches approach
 - refactoring databases in small batches
 - easy to undo changes 
