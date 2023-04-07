@@ -2,7 +2,7 @@
 
 [Refactoring Databases](), Book
 - is a simple change to a database schema that improves its design while retaining both its behavioral and informational semantics. 
-- In other words you cannot add new functionality or break exisiting functionality nor can you add new data pr change the meaning of existing data. 
+- In other words you cannot add new functionality or break exisiting functionality nor can you add new data or change the meaning of existing data. 
 - a database schema includes both structural aspects, such as table and view definitions, and functional aspects, such as stored procedures and triggers.
 - 
 k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) : specialized containers that run before app containers in a Pod. Init containers can contain utilities or setup scripts not present in an app image.
@@ -12,7 +12,7 @@ k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-c
 Working in Small Batches
 - part of [Devops Process capabilities](https://cloud.google.com/architecture/devops/devops-process-working-in-small-batches)
 - Small batches permit us to deliver results faster, with higher quality and less stress.
-- big win is [faster feedback](https://queue.acm.org/detail.cfm?id=2945077)
+- [faster feedback](https://queue.acm.org/detail.cfm?id=2945077) is the biggest win 
 - architecture, code, database: all together deployed as single unit 
 - encourages experimentation
 - ci, cd pipelines support small batches approach
