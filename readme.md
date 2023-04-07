@@ -1,4 +1,11 @@
+### [7 Apr 2023]
+
+k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) : specialized containers that run before app containers in a Pod. Init containers can contain utilities or setup scripts not present in an app image.
+
+[Atlas](https://atlasgo.io/), open-source schema migration tool : Running Schema migrations
+
 ### [6 Apr 2023]
+
 [Martin Fowler on adding slacks in planning](https://martinfowler.com/bliki/Slack.html)
 
 [Slack: Art of Agile Development, 2nd edition](https://www.jamesshore.com/v2/books/aoad2/slack), James Shore
