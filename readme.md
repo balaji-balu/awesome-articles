@@ -1,5 +1,10 @@
 ### [7 Apr 2023]
 
+[Refactoring Databases](), Book
+- is a simple change to a database schema that improves its design while retaining both its behavioral and informational semantics. 
+- In other words you cannot add new functionality or break exisiting functionality nor can you add new data pr change the meaning of existing data. 
+- a database schema includes both structural aspects, such as table and view definitions, and functional aspects, such as stored procedures and triggers.
+- 
 k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) : specialized containers that run before app containers in a Pod. Init containers can contain utilities or setup scripts not present in an app image.
 
 [Atlas](https://atlasgo.io/), open-source schema migration tool : Running Schema migrations
