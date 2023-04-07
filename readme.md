@@ -6,6 +6,11 @@ k8s, [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-c
 
 Working in Small Batches
 - architecture, code, database: all together deployed as single unit 
+- ci, cd pipelines support small batches approach
+- refactoring databases in small batches
+- easy to undo changes 
+- supports evolutionary architecture thinking
+- Select small stories, implement, deploy, test fast
 
 ### [6 Apr 2023]
 
