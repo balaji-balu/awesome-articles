@@ -1,3 +1,6 @@
+### [12 Apr 2023]
+[](https://www.newsletter.swirlai.com/): swirlai newsletter. visual
+
 ### [11 Apr 2023]
 
 FURPS+ : 
