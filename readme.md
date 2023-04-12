@@ -1,5 +1,5 @@
 ### [12 Apr 2023]
-[](https://www.newsletter.swirlai.com/): swirlai newsletter. visual
+[swirlai newsletter](https://www.newsletter.swirlai.com/): . visual
 
 ### [11 Apr 2023]
 
