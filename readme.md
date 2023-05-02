@@ -1,3 +1,10 @@
+### [2 May 2023]
+[freeRTOS](https://www.freertos.org/index.html): open source Real-time operating system for microcontrollers
+
+awesome books on open source applications and their design/architecture
+
+[Software design by example in javascript](https://third-bit.com/sdxjs/)
+
 ### [25 Apr 2023]
 [Port](https://www.getport.io/) - [Backstage](https://backstage.io/) Alternative. Internal Platform UI. [Video from devops toolkit](https://www.youtube.com/watch?v=ro-h7tsp0qI)
 
