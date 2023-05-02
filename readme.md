@@ -3,7 +3,10 @@
 
 awesome books on open source applications and their design/architecture
 
+[Teach Tech Together](https://teachtogether.tech/en/index.html) : 
+
 [Software design by example in javascript](https://third-bit.com/sdxjs/)
+
 
 ### [25 Apr 2023]
 [Port](https://www.getport.io/) - [Backstage](https://backstage.io/) Alternative. Internal Platform UI. [Video from devops toolkit](https://www.youtube.com/watch?v=ro-h7tsp0qI)
