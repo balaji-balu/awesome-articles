@@ -7,6 +7,11 @@ awesome books on open source applications and their design/architecture
 
 [Software design by example in javascript](https://third-bit.com/sdxjs/)
 
+[javascript for data science](https://third-bit.com/js4ds/)
+
+[Research software engineering using python](https://merely-useful.tech/py-rse/index.html)
+
+
 
 ### [25 Apr 2023]
 [Port](https://www.getport.io/) - [Backstage](https://backstage.io/) Alternative. Internal Platform UI. [Video from devops toolkit](https://www.youtube.com/watch?v=ro-h7tsp0qI)
