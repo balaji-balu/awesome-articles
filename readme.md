@@ -1,3 +1,8 @@
+### [3 May 2023]
+[Bootlin](https://bootlin.com/docs/) - formerly free electrons. Free training materials and conference presentations from Bootlin, covering kernel, real-time, Android, embedded Linux system and device driver development.
+
+[500 lines or less](https://aosabook.org/en/)
+
 ### [2 May 2023]
 [freeRTOS](https://www.freertos.org/index.html): open source Real-time operating system for microcontrollers
 
