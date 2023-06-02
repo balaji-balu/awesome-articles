@@ -1,3 +1,7 @@
+### [2 June 2023]
+[Little things and big things: lessons for building large systems. Peter van Roy @Code BEAM Lite Sto](https://www.youtube.com/watch?v=h8sE3Ai8Dsk)
+Youtube
+
 ### [3 May 2023]
 [Bootlin](https://bootlin.com/docs/) - formerly free electrons. Free training materials and conference presentations from Bootlin, covering kernel, real-time, Android, embedded Linux system and device driver development.
 
