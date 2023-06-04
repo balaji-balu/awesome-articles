@@ -1,11 +1,11 @@
 ### [4 June 2023]
 
-Zulip - Slack Alternative
+[Zulip](https://zulip.com/) - Slack Alternative
 
-SupaDemo - Transform your workflow into an interactive demo, instantly.
+[SupaDemo](https://supademo.com/) - Transform your workflow into an interactive demo, instantly.
 Supademo is the fastest way to create interactive product demos or guides. Share or embed in support docs, websites or in your favorite tools. For free.
 
-Mastadon - Social networking that's not for sale.
+[Mastadon](https://joinmastodon.org/) - Social networking that's not for sale.
 Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
 
 ### [2 June 2023]
