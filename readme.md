@@ -1,3 +1,13 @@
+### [4 June 2023]
+
+Zulip - Slack Alternative
+
+SupaDemo - Transform your workflow into an interactive demo, instantly.
+Supademo is the fastest way to create interactive product demos or guides. Share or embed in support docs, websites or in your favorite tools. For free.
+
+Mastadon - Social networking that's not for sale.
+Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
+
 ### [2 June 2023]
 [Little things and big things: lessons for building large systems. Peter van Roy @Code BEAM Lite Sto](https://www.youtube.com/watch?v=h8sE3Ai8Dsk)
 Youtube
