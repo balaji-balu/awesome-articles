@@ -1,3 +1,7 @@
+### [16 June 2023]
+Valgrind
+NASA power of 10
+
 ### [4 June 2023]
 
 [Zulip](https://zulip.com/) - Slack Alternative
